@@ -6,14 +6,14 @@ A Web Application that acts as a car rental company. The user can view the avail
 ## Used Tools
 
 - Java 17
-- Spring Boot v2.5.5
-- Maven v3.8.2
-- MySQL Community Server v8.0.27
+- Spring Boot
+- Maven
+- MySQL Community Server
 - Spring Data JPA
 - Spring Web MVC
 - Spring Security with JWT
 - Lombok
-- JUnit 5
+- JUnit
 - Mockito
 
 #### To login, enter the username and password for the account with selected role:
